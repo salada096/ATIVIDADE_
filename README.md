@@ -1,4 +1,4 @@
-# ATIVIDADE_📋 Principais seções:
+# ATIVIDADE_📋:
 
 Visão geral do projeto
 Instruções de instalação
@@ -11,10 +11,7 @@ Links para recursos adicionais
 🎯 Métodos cobertos:
 
 Arquivos CSS estáticos com Express
-Template engines (EJS, Handlebars)
-Preprocessadores (Sass, PostCSS)
-CSS-in-JS (Styled Components)
-Bundlers modernos (Webpack, Vite)
+
 
 ✨ Destaques:
 
